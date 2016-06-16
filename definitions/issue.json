@@ -1,0 +1,15 @@
+{
+  "publisher": "string",
+  "published": "date",
+  "publishingLanguage": "string",
+  "pieces": [
+    {
+      "id": "string",
+      "pieceId": "string",
+      "title": "string",
+      "subtitle": "string",
+      "key": "string",
+      "language": "string"
+    }
+  ]
+}

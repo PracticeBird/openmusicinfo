@@ -1,0 +1,40 @@
+{
+  "id": "string",
+  "referencePiece": "string",
+  "referenceType": "string",
+  "title": "string",
+  "subtitle": "string",
+  "worksCatalogue": "string",
+  "key": "string",
+  "language": "string",
+  "publisher": "string",
+  "published": "date",
+  "publishingLanguage": "string",
+  "movements": [
+    {
+      "title": "string",
+      "number": "number",
+      "tempo": "string"
+    }
+  ],
+  "instruments": [
+    {
+      "title": "string",
+      "type": "string",
+      "category": "number",
+      "lowestNote": "string",
+      "highestNote": "string"
+    }
+  ],
+  "composer": [
+    "artistId"
+  ],
+  "lyricist": [
+    "artistId"
+  ],
+  "arranger": [
+    "artistId"
+  ],
+  "duration": "string",
+  "ndbCategory": "number"
+}

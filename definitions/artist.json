@@ -1,0 +1,13 @@
+{
+  "id": "string",
+  "first": "string",
+  "middle": "string",
+  "last": "string",
+  "nationality": "string",
+  "period": "string",
+  "dateOfBirth": "date",
+  "dateOfDeath": "date",
+  "placeOfBirth": "string",
+  "placeOfDeath": "string",
+  "biography": "string"
+}
